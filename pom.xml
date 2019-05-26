@@ -9,11 +9,11 @@
 
   <!-- You must customize the following values. -->
   <!-- By convention, the extension name uses lowercased dash-delimited words. -->
-  <name>example-extension</name>
-  <description>A description of your extension.</description>
+  <name>slack-notifier-sync-pipe-plugin</name>
+  <description>Send Slack messages to users when changes occur on their accounts.</description>
   <organization>
-    <name>ExampleCorp</name>
-    <url>https://example.com</url>
+    <name>Microcode.io</name>
+    <url>https://microcode.io</url>
   </organization>
 
   <properties>
@@ -27,7 +27,7 @@
     <!--
     The Java compiler source and target versions for this project.
     -->
-    <source.version>1.11</source.version>
+    <source.version>1.8</source.version>
     <target.version>1.8</target.version>
 
     <!--

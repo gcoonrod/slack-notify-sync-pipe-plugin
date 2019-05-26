@@ -13,7 +13,6 @@ import io.microcode.labs.slack.SlackClientType;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Guice;
 import org.testng.annotations.Test;
-import org.testng.Assert;
 
 import java.util.concurrent.CompletableFuture;
 
